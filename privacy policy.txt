@@ -1,0 +1,142 @@
+
+Privacy Policy – The CliniQ
+
+Effective Date: 24-03-2026
+App Name: The CliniQ
+
+The CliniQ (“we”, “our”, or “us”) provides teleconsultation, chat consultation, and home visit healthcare services connecting users with doctors and physiotherapists.
+
+We are committed to protecting your privacy and handling your data transparently in compliance with Google Play User Data Policy.
+
+1. Information We Collect
+
+We collect only the data necessary to provide our services.
+
+# a. Personal Information
+
+- Name
+- Phone number
+- Email address
+- Gender
+- Date of birth
+- Address (for home visits)
+
+b. Sensitive Health Information
+
+- Medical history
+- Symptoms and consultation details
+- Prescriptions and reports
+
+⚠️ This data is considered sensitive personal data and is handled with strict confidentiality.
+
+c. Payment Information
+
+- Payments are processed via secure third-party providers (e.g., Razorpay, Stripe)
+- We do not store debit/credit card details
+
+d. Device & Usage Data
+- Device type and OS
+- IP address
+- App interactions and logs
+
+2. How We Use Your Information
+
+We use collected data to:
+
+- Provide teleconsultation and chat services
+- Schedule and manage home visits
+- Connect users with healthcare professionals
+- Process payments securely
+- Send appointment reminders and notifications
+- Improve app functionality and performance
+- Comply with legal and regulatory requirements
+
+3. Data Sharing and Disclosure
+
+We only share data when necessary:
+
+a. With Healthcare Providers
+
+- Doctors and physiotherapists receive relevant medical information for treatment
+
+b. With Service Providers
+
+- Payment gateways
+- Cloud hosting and analytics services
+
+c. Legal Requirements
+
+- If required by law or government authorities
+
+🚫 We do NOT sell or rent user data to any third parties.
+
+
+4. Data Security
+
+We follow industry best practices:
+
+- HTTPS encryption
+- Secure backend infrastructure
+- Access control and authentication
+
+Despite our efforts, no method is completely secure.
+
+5. Data Retention & Deletion
+
+- Data is retained only as long as necessary
+- Users can request deletion of their account and data
+
+To request deletion: tcliniq@gmail.com
+
+
+ 6. User Rights
+
+You have the right to:
+
+- Access your data
+- Correct inaccurate data
+- Request deletion
+- Withdraw consent
+
+ 7. Permissions Used in the App
+
+The CliniQ may request the following permissions:
+
+- Camera & Microphone → For video consultations
+- Storage → For uploading reports/prescriptions
+- Location (optional) → To enable home visit services
+
+We only request permissions necessary for app functionality.
+
+
+8. Third-Party Services
+
+We may use trusted third-party services such as:
+
+- Payment gateways (Razorpay, Stripe, etc.)
+- Video consultation services
+- Analytics tools
+
+These providers have their own privacy policies.
+
+
+9. Children's Privacy
+
+The CliniQ is not intended for children under 18 without parental or guardian consent.
+
+10. Policy Updates
+
+We may update this Privacy Policy periodically. Updates will be reflected with a new effective date.
+
+
+11. Contact Information
+
+For any privacy-related concerns:
+
+Email: tcliniq@gmail.com
+Address: Kendrapada, Odisha, India
+
+
+12. Consent
+
+By using The CliniQ app, you agree to this Privacy Policy and the collection and use of your data as described.
